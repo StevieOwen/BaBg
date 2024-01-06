@@ -1,0 +1,31 @@
+.navlist{
+    display: absolute;
+    list-style-type: none;
+    position:absolute;
+    background-color: #622FB2;
+    color: #fff;
+    margin-top:29px;
+    margin-left:-70px;
+    padding-left:35% ;
+    padding-right:35% ;
+    padding-top:5%  ;
+    padding-bottom:3%  ;
+    top:6%;
+    left: 15%;
+    z-index: 1;
+}
+.navlist li{
+    margin-left: 5%;
+}
+
+.navlist .li_item{
+    display: flex;
+    margin-bottom: 5%;
+    align-items: center;
+    justify-self: center;  
+}
+
+.navlist li a{
+    text-decoration: none;
+    color: #fff;
+}

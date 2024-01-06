@@ -1,0 +1,70 @@
+
+*{
+    font-family: oswald;
+}
+main{
+    text-align: center;
+}
+
+main .item_group h2{
+    color: #fff;
+}
+.item_group{
+    width: 100%;
+}
+.item_group h2{
+    font-family:Merriweather ;
+}
+.item_group .group{
+    width: 100%;
+    
+}
+
+.item{
+    background-color: #B7A8FF;
+    box-shadow:1px 1px 2px 2px #37287D;
+    position: relative;
+    width: 45%;
+    border-radius:5%;
+}
+.item h4{
+    color:#000;
+}
+
+.item p span{
+    color: #000;
+}
+
+.ig{
+    text-align: center;
+    background-color:#222657;
+    border-radius: 10px;   
+    padding: 1%;
+    color:#fff;
+}
+.ig button{
+    background-color: #000;
+    padding: 3%;
+    color:#fff;
+    border-radius:50px ;
+}
+.ig button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+@media screen and ( max-width:320px){
+    
+    .item_group .group{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 5%;
+    }
+    .item{
+        background-color: #B7A8FF;
+        box-shadow:1px 1px 2px 2px #37287D;
+        position: relative; 
+        border-radius:5%;
+    }
+}
