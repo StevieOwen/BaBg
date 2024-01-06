@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/StevieOwen/BaBg/static/css/main.2b39ca55.css",
+    "main.js": "/StevieOwen/BaBg/static/js/main.c901c744.js",
+    "static/js/787.4b3b2819.chunk.js": "/StevieOwen/BaBg/static/js/787.4b3b2819.chunk.js",
+    "static/media/video.mp4": "/StevieOwen/BaBg/static/media/video.27f2769cd5bc5b1658e9.mp4",
+    "static/media/pant2.jpeg": "/StevieOwen/BaBg/static/media/pant2.2ff5fea0b65f5d694d7e.jpeg",
+    "static/media/short1.jpeg": "/StevieOwen/BaBg/static/media/short1.de42114ecebc2accceb7.jpeg",
+    "static/media/short2.jpeg": "/StevieOwen/BaBg/static/media/short2.2e1a0f5f6382f0f328af.jpeg",
+    "static/media/tshirt1.jpeg": "/StevieOwen/BaBg/static/media/tshirt1.cced83d199fd3b77f6e2.jpeg",
+    "static/media/tshirt3.jpeg": "/StevieOwen/BaBg/static/media/tshirt3.c504220f99d6be19f933.jpeg",
+    "static/media/tshirt2.jpeg": "/StevieOwen/BaBg/static/media/tshirt2.8e632d052125901c6f1c.jpeg",
+    "static/media/short3.jpeg": "/StevieOwen/BaBg/static/media/short3.a918a4788cf614e82e0d.jpeg",
+    "static/media/pant6.jpeg": "/StevieOwen/BaBg/static/media/pant6.31168c68c546b3ff2aa5.jpeg",
+    "static/media/pant1.jpeg": "/StevieOwen/BaBg/static/media/pant1.31befd0c6e11ba32c16f.jpeg",
+    "static/media/pull1.jpeg": "/StevieOwen/BaBg/static/media/pull1.3e2e2393b71db19a47e5.jpeg",
+    "static/media/instagram1.png": "/StevieOwen/BaBg/static/media/instagram1.a19ba3cfabc05d0ef534.png",
+    "static/media/facebook.png": "/StevieOwen/BaBg/static/media/facebook.13863c99c209978a4569.png",
+    "static/media/logo.jpg": "/StevieOwen/BaBg/static/media/logo.adc01799509066811b93.jpg",
+    "static/media/tik-tok.png": "/StevieOwen/BaBg/static/media/tik-tok.a645e99a44aea69d0ac1.png",
+    "static/media/loupe.png": "/StevieOwen/BaBg/static/media/loupe.c6544d3156a8bde3d076.png",
+    "static/media/house.png": "/StevieOwen/BaBg/static/media/house.20a89cae33df563ea0ae.png",
+    "static/media/pullover.png": "/StevieOwen/BaBg/static/media/pullover.d6be83c5d914a164610e.png",
+    "static/media/cargo.png": "/StevieOwen/BaBg/static/media/cargo.f4d18aff43a2201d3318.png",
+    "static/media/location.png": "/StevieOwen/BaBg/static/media/location.e6bb4701a04bd8c65abc.png",
+    "static/media/shorts.png": "/StevieOwen/BaBg/static/media/shorts.f5323d60e069922e33ca.png",
+    "static/media/shirt1.png": "/StevieOwen/BaBg/static/media/shirt1.f47ed9efd7bee1a72961.png",
+    "static/media/tshirt.png": "/StevieOwen/BaBg/static/media/tshirt.e507cb0cbbd0fe610aa0.png",
+    "static/media/logo.svg": "/StevieOwen/BaBg/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/StevieOwen/BaBg/index.html",
+    "main.2b39ca55.css.map": "/StevieOwen/BaBg/static/css/main.2b39ca55.css.map",
+    "main.c901c744.js.map": "/StevieOwen/BaBg/static/js/main.c901c744.js.map",
+    "787.4b3b2819.chunk.js.map": "/StevieOwen/BaBg/static/js/787.4b3b2819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b39ca55.css",
+    "static/js/main.c901c744.js"
+  ]
+}
