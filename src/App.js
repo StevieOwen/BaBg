@@ -5,7 +5,7 @@ import Pantalons from'./pages/pantalon'
 import Tshirt from './pages/t-shirt'
 import Pull from'./pages/pull'
 import NotFound from './pages/NotFound'; 
-import {BrowserRouter as Router, Routes, Route}from 'react-router-dom'
+import {HashRouter as Router, Routes, Route}from 'react-router-dom'
 
 function App() {
   return (
