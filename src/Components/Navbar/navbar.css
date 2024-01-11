@@ -45,9 +45,16 @@ nav{
 .searh_icon{
     display: inline-block;
     position: absolute;
-    right:25% ;
-    top: 15%;
+    right:28% ;
+    top: 17%;
 }
-@media screen and(max-width=320px) {
 
+@media screen and(max-width:390px) {
+    .searh_icon{
+        display: inline-block;
+        position: absolute;
+        right:28% ;
+        top: 17%;
+    }
+    
 }

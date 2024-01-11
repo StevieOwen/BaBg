@@ -1,4 +1,6 @@
-
+body{
+    background-color:#222323 ;
+}
 *{
     font-family: oswald;
 }
@@ -53,7 +55,23 @@ main .item_group h2{
     color: #fff;
 }
 
-@media screen and ( max-width:320px){
+@media screen and ( max-width:390px){
+    
+    .item_group .group{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 5%;
+    }
+    .item{
+        background-color: #B7A8FF;
+        box-shadow:1px 1px 2px 2px #37287D;
+        position: relative; 
+        border-radius:5%;
+    }
+}
+
+@media screen and ( max-width:490px){
     
     .item_group .group{
         width: 100%;

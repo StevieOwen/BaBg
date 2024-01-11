@@ -11,7 +11,7 @@ let Footer=()=>{
             <hr/>
             <div>
                 <img src={facebook} width='7%'alt=''/>
-                <img src={instagram1}width='7%' alt=''/>
+                <a href='https://www.instagram.com/shop_whith_me_by_ba.bg?igsh=MTR4ZGVpemozd3U4dg=='><img src={instagram1}width='7%' alt=''/></a>
                 <img src={tiktok}width='7%' alt=''/>
             </div>
         </footer>

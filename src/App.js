@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
 import Chemises from'./pages/chemises'
 import Home from'./pages/Home'
 import Culottes from'./pages/culottes'
 import Pantalons from'./pages/pantalon'
 import Tshirt from './pages/t-shirt'
 import Pull from'./pages/pull'
+import NotFound from './pages/NotFound'; 
 import {BrowserRouter as Router, Routes, Route}from 'react-router-dom'
 
 function App() {
@@ -19,7 +18,7 @@ function App() {
       <Route path="/pull" element={<Pull/>}/>
       <Route path="/t-shirt" element={<Tshirt/>}/>
       <Route path="/culottes" element={<Culottes/>}/>
-
+      <Route path="*" element={<NotFound />} />
     </Routes>
     
     </Router> 
